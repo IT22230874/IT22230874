@@ -1,17 +1,17 @@
 <!-- README for Savindu Chethiya with Key Skills Icons -->
 
 <h1 align="center">Hi 👋, I'm Savindu Chethiya</h1>
-<h3 align="center">Turning caffeine & code into real-world apps ☕💻</h3>
+<h3 align="center">A passionate IT student || Code. Test. Debug. Repeat. (With snacks) 🔁🍪</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00BFA6&center=true&vCenter=true&width=500&lines=Full+Stack+Dev+%7C+React+Native+%7C+Firebase+Fan;Building+clean+UIs+and+smart+backends;Open+to+cool+collaborations!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00BFA6&center=true&vCenter=true&width=500&lines=Code+with+purpose+%7C+Build+with+passion;Open+to+cool+collaborations!" alt="Typing SVG" />
 </p>
+
 
 ---
 
 ### 🧠 About Me
-
-- 👨‍💻 Full Stack Developer | Trainee @ Quantumisle  
+ 
 - 🎓 Software Engineering undergraduate at SLIIT  
 - 📚 Currently exploring ML, cloud, and AI integrations  
 - 📫 Reach me: **savinducs@gmail.com**
