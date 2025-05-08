@@ -4,8 +4,9 @@
 <h3 align="center">A passionate IT student || Code. Test. Debug. Repeat. (With snacks) 🔁🍪</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00BFA6&center=true&vCenter=true&width=500&lines=Code+with+purpose+%7C+Build+with+passion;Open+to+cool+collaborations!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00BFA6&center=true&vCenter=true&width=500&lines=Code+with+purpose+and+passion;Open+to+cool+collaborations!" alt="Typing SVG" />
 </p>
+
 
 
 ---
